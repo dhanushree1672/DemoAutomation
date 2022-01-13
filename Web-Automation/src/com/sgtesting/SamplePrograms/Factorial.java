@@ -10,5 +10,4 @@ public class Factorial {
         }
         System.out.println("The factorial of the given number:"+fact);
 	}
-
 }
